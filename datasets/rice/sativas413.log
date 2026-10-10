@@ -1,0 +1,31 @@
+PLINK v2.0.0-a.7.11 64-bit (1 Oct 2026)
+Options in effect:
+  --export vcf
+  --map RiceDiversity.44K.MSU6.Genotypes_PLINK/RiceDiversity_44K_Genotypes_PLINK/sativas413.map
+  --out datasets/rice/sativas413
+  --ped RiceDiversity.44K.MSU6.Genotypes_PLINK/RiceDiversity_44K_Genotypes_PLINK/sativas413.ped
+
+Hostname: DESKTOP-B7REH9H
+Working directory: C:\Users\ALEXEI\Desktop\MAESTRIA - BIOTECNOLOGÍA E INGENIERÍA GENETICA\SEMANA_4_AEZR_DG_MBEG
+Start time: Sat Oct 10 13:46:56 2026
+
+Random number seed: 1791658016
+16076 MiB RAM detected; reserving 8038 MiB for main workspace.
+Using up to 12 threads (change this with --threads).
+--pedmap: 36901 variants in .map file.
+--pedmap: 413 samples present, genotypes extracted to
+datasets/rice/sativas413-temporary.bed.smaj .
+Transposing sample-major .bed to datasets/rice/sativas413-temporary.pgen , and
+setting major alleles to provisional-REF.
+Transpose complete.
+--pedmap: datasets/rice/sativas413-temporary.pgen +
+datasets/rice/sativas413-temporary.pvar +
+datasets/rice/sativas413-temporary.psam written. .bed.smaj and .fam.tmp
+temporary files deleted.
+413 samples (0 females, 0 males, 413 ambiguous; 413 founders) loaded from
+datasets/rice/sativas413-temporary.psam.
+36901 variants loaded from datasets/rice/sativas413-temporary.pvar.
+Note: No phenotype data present.
+--export vcf to datasets/rice/sativas413.vcf ... done.
+
+End time: Sat Oct 10 13:46:56 2026
